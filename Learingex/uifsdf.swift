@@ -8,5 +8,5 @@
 import Foundation
 
 struct yso {
-    var name:String = "noel"
+    var name:String?
 }
